@@ -33,7 +33,7 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 ## Video
 
-[Starry Video](starry.mp4)
+[Starry Video](video.mp4)
 
 
 
