@@ -39,7 +39,7 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 ## Download
 
-[Mac App](https://itunes.apple.com/us/app/starry/id1281893044)
+[Mac App Store](https://itunes.apple.com/us/app/starry/id1281893044)
 
 
 
