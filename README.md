@@ -8,23 +8,34 @@ But by grouping your starred repositories, you can easily find it . The more det
  Starry has the following features.
 
 * Group you starred repositories on github
+
 * Synchronize your groups to all your Mac computers
+
 * Language groups based on the languages of repositories
+
 * Caching the documents and images of repositories
+
 * Read repositories. In the Pro version, you can adjust the font size of repository document
+
 * Unstar repositories.
+
 * Search starred repositories via the name, owner, and description of repository
+
 * Sort starred repositories by the starred date, star count of repository, repository name and update date of repository
+
+  ​
 
 ## Video
 
-[![Starry](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](video.mp4)
+[![Starry](screenshot.png)](video.mp4)
 
 
 
-##Download
+## Download
 
 [Mac App](https://itunes.apple.com/us/app/starry/id1281893044)
+
+
 
 ## Third Party Libraries
 
