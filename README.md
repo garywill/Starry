@@ -25,15 +25,27 @@ But by grouping your starred repositories, you can easily find it . The more det
 
   ​
 
+## Screenshot
+
+![Starry](screenshot.png)
+
+
+
+
+
 ## Video
 
-[![Starry](screenshot.png)](video.mp4)
+[Starry Video](starry.mp4)
+
+
 
 
 
 ## Download
 
 [Mac App](https://itunes.apple.com/us/app/starry/id1281893044)
+
+
 
 
 
