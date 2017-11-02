@@ -9,7 +9,7 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 * Group you starred repositories on github
 
-* Synchronize your groups to all your Mac computers
+* Synchronize your groups to all your iPhone, iPad and Mac computers
 
 * Language groups based on the languages of repositories
 
@@ -27,9 +27,17 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 ## Screenshot
 
-![Starry](screenshot.png)
+### Mac
 
+![](Mac.png)
 
+### iPhone
+
+![](iPhone.png)
+
+###iPad
+
+![](iPad.png)
 
 ## Video
 
@@ -39,7 +47,9 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 ## Download
 
-[Mac App Store](https://itunes.apple.com/us/app/starry/id1281893044)
+[Mac](https://itunes.apple.com/us/app/starry/id1281893044)
+
+[iPhone and iPad](https://itunes.apple.com/cn/app/starry-group-your-star/id1281874667?mt=8)
 
 
 
@@ -47,16 +57,17 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 [realm-cocoa](https://github.com/realm/realm-cocoa)
 
-[Alamofire](https://github.com/Alamofire/Alamofire)
-
-[ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
-
 [Bricking](https://github.com/cp3hnu/Bricking)
 
+[Alamofire](https://github.com/Alamofire/Alamofire)
+
 [RxSwift](https://github.com/ReactiveX/RxSwift)
+
+[ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
 
 [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
 
 [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)
 
 [Kingfisher](https://github.com/onevcat/Kingfisher)
+
