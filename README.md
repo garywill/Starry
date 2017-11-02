@@ -29,19 +29,19 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 ### Mac
 
-![](Mac.png)
+![](sreenshot/Mac.png)
 
 ### iPhone
 
-![](iPhone.png)
+![](sreenshot/iPhone.png)
 
-###iPad
+### iPad
 
-![](iPad.png)
+![](sreenshot/iPad.png)
 
 ## Video
 
-[Starry Video](video.mp4)
+[Starry Video for Mac](video/Mac.mp4)
 
 
 
