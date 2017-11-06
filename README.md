@@ -53,6 +53,22 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 
 
+## Little known details
+
+### Mac
+
+* Delete group: cmd + delete
+* Rename group: Select a group then click the left mouse button or click the return key
+* Copy repository to a group: Hold down the option key and drag repository to a group
+* Reverse order: Click the same button at the top of the middle column twice
+* Index starred repositories: Click the third button at the top of the middle column, then click alphabet key 
+* Back or Forward in repository document page: Click the right mouse button
+
+### iPhone and iPad
+
+* Sort starred repositories: In repository list page, pull down. Continue to pull down to change sort type and ascending or descending
+* Back or Forward in repository document page: Swipe from left edge to right or click the ← button to back to previous page.  Swipe from right edge to left to next page
+
 ## Third Party Libraries
 
 [realm-cocoa](https://github.com/realm/realm-cocoa)
