@@ -9,19 +9,19 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 * Group you starred repositories on github
 
-* Synchronize your groups to all your iPhone, iPad and Mac computers
+* Synchronize your groups to all of your iPhone, iPad and Mac
 
 * Language groups based on the languages of repositories
 
-* Caching the documents and images of repositories
+* Caching documents and images of repositories
 
-* Read repositories. In the Pro version, you can adjust the font size of repository document
-
-* Unstar repositories.
+* Read repositories. You can adjust the font size of repository document in read mode
 
 * Search starred repositories via the name, owner, and description of repository
 
 * Sort starred repositories by the starred date, star count of repository, repository name and update date of repository
+
+* Unstar repositories
 
   ​
 
@@ -66,7 +66,7 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 ### iPhone and iPad
 
-* **Sort starred repositories:** In repository list page, pull down. Continue to pull down to change sort type and ascending or descending
+* **Sort starred repositories:** In repository list page, pull down. Continue to pull down to change sort type or switch ascending or descending order
 * **Back or Forward in repository document page:** Swipe from left edge to right or click the ← button to back to previous page.  Swipe from right edge to left to next page
 
 ## Third Party Libraries
