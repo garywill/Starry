@@ -3,7 +3,7 @@ Group, manage and read your starred repositories on GitHub.
 
 You might have a problem like that you want to find a repository from hundreds of your starred repositories on GitHub, and you forget the name, owner, and description of the repository. To find it, you need to traverse all of your starred repositories. This is very troublesome. 
 
-But by grouping your starred repositories, you can easily find it . The more detailed the group is, the easier it is to find it. Also, if you have multiple devices(iPhone, iPad and Mac), you want to see these groups at the same time. This is the purpose of Starry. 
+But by grouping your starred repositories, you can easily find it . The more detailed the group is, the easier it is to find it. Also, if you have multiple devices (iPhone, iPad and Mac), you want to see these groups on all of your devices at the same time. This is the purpose of Starry. 
 
  Starry has the following features.
 
