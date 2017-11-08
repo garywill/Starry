@@ -43,9 +43,11 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 [Starry Video for Mac](video/Mac.mp4)
 
-## Starry Pro(Mac)
+Video is too large, you need to download first.
 
-$2.99 for Starry Pro（unlimited groups，5 groups for free）
+## Starry Pro (Mac)
+
+$2.99 for Starry Pro (unlimited groups, 5 groups for free)
 
 **Declaration:** Just to pay for data synchronization server costs. Now the minimum configuration for the data synchronization server is $100/year. With the increase of users,  the server may need to upgrade. I used to consider using the professional or enterprise edition of Realm Platform, but it was too expensive to afford it.
 
@@ -53,9 +55,9 @@ $2.99 for Starry Pro（unlimited groups，5 groups for free）
 
 ## Download
 
-[Mac](https://itunes.apple.com/us/app/starry/id1281893044)
+[Starry for Mac](https://itunes.apple.com/us/app/starry/id1281893044)
 
-[iPhone and iPad](https://itunes.apple.com/cn/app/starry-group-your-star/id1281874667?mt=8)
+[Starry for iPhone and iPad](https://itunes.apple.com/cn/app/starry-group-your-star/id1281874667?mt=8)
 
 ## Little known details
 
