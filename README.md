@@ -49,7 +49,7 @@ Video is too large, you need to download first.
 
 $2.99 for Starry Pro (unlimited groups, 5 groups for free)
 
-**Declaration:** Just to pay for data synchronization server costs. Now the minimum configuration for the data synchronization server is $100/year. With the increase of users,  the server may need to upgrade. I used to consider using the professional or enterprise edition of Realm Platform, but it was too expensive to afford it.
+**Declaration:** Just to pay for data synchronization server costs. Now the minimum configuration for the data synchronization server is $100/year. With the increase of users,  the server may need to upgrade. I used to consider using the professional or enterprise edition of Realm Platform to gain quality service, but it was too expensive to afford it.
 
 **All revenue will be used for data synchronization server and software maintenance.**
 
