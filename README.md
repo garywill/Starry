@@ -3,7 +3,7 @@ Group, manage and read your starred repositories on GitHub.
 
 You might have a problem like that you want to find a repository from hundreds of your starred repositories on GitHub, and you forget the name, owner, and description of the repository. To find it, you need to traverse all of your starred repositories. This is very troublesome. 
 
-But by grouping your starred repositories, you can easily find it . The more detailed the group is, the easier it is to find it. This is the purpose of Starry.
+But by grouping your starred repositories, you can easily find it . The more detailed the group is, the easier it is to find it. Also, if you have multiple devices(iPhone, iPad and Mac), you want to see these groups at the same time. This is the purpose of Starry. 
 
  Starry has the following features.
 
@@ -43,15 +43,19 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 [Starry Video for Mac](video/Mac.mp4)
 
+## Starry Pro(Mac)
 
+$2.99 for Starry Pro（unlimited groups，5 groups for free）
+
+**Declaration:** Just to pay for data synchronization server costs. Now the minimum configuration for the data synchronization server is $100/year. With the increase of users,  the server may need to upgrade. I used to consider using the professional or enterprise edition of Realm Platform, but it was too expensive to afford it.
+
+**All revenue will be used for data synchronization server and software maintenance.**
 
 ## Download
 
 [Mac](https://itunes.apple.com/us/app/starry/id1281893044)
 
 [iPhone and iPad](https://itunes.apple.com/cn/app/starry-group-your-star/id1281874667?mt=8)
-
-
 
 ## Little known details
 
@@ -81,9 +85,19 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
 
+[MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+
+[Kingfisher](https://github.com/onevcat/Kingfisher)
+
 [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
 
 [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)
 
-[Kingfisher](https://github.com/onevcat/Kingfisher)
+## Issues
+
+If you have a question or a good suggestion, do not hesitate to post an [issue](https://github.com/cp3hnu/Starry/issues). I'll try my best to solve it.
+
+
+
+
 
