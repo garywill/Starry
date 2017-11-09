@@ -45,9 +45,11 @@ But by grouping your starred repositories, you can easily find it . The more det
 
 Video is too large, you need to download first.
 
-## Starry Pro (Mac)
+## Pricing
 
-$2.99 for Starry Pro (unlimited groups, 5 groups for free)
+**Free** for iPhone, iPad and Mac
+
+**$2.99** for Mac Starry Pro (unlimited groups, 5 groups for free)
 
 **Declaration:** Just to pay for data synchronization server costs. Now the minimum configuration for the data synchronization server is $100/year. With the increase of users,  the server may need to upgrade. I used to consider using the professional or enterprise edition of Realm Platform to gain quality service, but it was too expensive for me to afford it.
 
