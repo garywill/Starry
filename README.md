@@ -3,7 +3,7 @@ Group, manage and read your starred repositories on GitHub.
 
 You might have a problem like that you want to find a repository from hundreds of your starred repositories on GitHub, and you forget the name, owner, and description of the repository. To find it, you need to traverse all of your starred repositories. This is very troublesome. 
 
-But by grouping your starred repositories, you can easily find it . The more detailed the group is, the easier it is to find it. Also, if you have multiple devices (iPhone, iPad and Mac), you want to see these groups on all of your devices at the same time. This is the purpose of Starry. 
+But by grouping your starred repositories, you can easily find it. The more detailed the group is, the easier it is to find it. Also, if you have multiple devices (iPhone, iPad and Mac), you want to see these groups on all of your devices at the same time. This is the purpose of Starry. 
 
  Starry has the following features.
 
@@ -22,6 +22,10 @@ But by grouping your starred repositories, you can easily find it . The more det
 * Sort starred repositories by the starred date, star count of repository, repository name and update date of repository
 
 * Unstar repositories
+
+* Handoff
+
+* Spotlight Search (iOS)
 
   ​
 
@@ -71,11 +75,13 @@ Video is too large, you need to download first.
 * **Reverse order:** Click the same button at the top of the middle column twice
 * **Index starred repositories:** Click the third button at the top of the middle column, then click alphabet key 
 * **Back or Forward in repository document page:** Click the right mouse button
+* **Cancel refreshing starred repositories from GitHub:** Click the rotating refresh button
 
 ### iPhone and iPad
 
 * **Sort starred repositories:** In repository list page, pull down. Continue to pull down to change sort type or switch ascending or descending order
 * **Back or Forward in repository document page:** Swipe from left edge to right or click the ← button to back to previous page.  Swipe from right edge to left to next page
+* **Cancel refreshing starred repositories from GitHub:** Click the rotating refresh button
 
 ## Third Party Libraries
 
